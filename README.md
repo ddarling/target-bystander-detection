@@ -1,4 +1,4 @@
-#target-bystander-detection
+# target-bystander-detection
 
 This repository hosts the dataset asit was used for our target/bystander detection paper.
 
